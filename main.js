@@ -1,1 +1,1 @@
-window.alert("hello from external")
+document.getElementById('a').innerHTML="hello"
